@@ -22,19 +22,7 @@ asic Git Commands
 ## git pull
 *Fetch and merge changes from the remote repository.*
 
-## git branch
-*List all branches.*
 
-## git checkout <branch>
-*Switch to a specific branch.*
-
-## git merge <branch>
-*Merge a branch into the current branch.*
-
-## git log
-*View the commit history.*
-
-## git branch <new-branch>
 *Create a new branch.*
 
 ## git checkout -b <new-branch>
