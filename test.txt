@@ -1,2 +1,5 @@
+create git hub: go to GitHub and create user ID and password then setting-developer setting- token classic create a new token
 
-this a test text. can you read me in git?
+Icon-profile nzaremenhr respiratory
+setting- collaborator (select Wojtek)
+
